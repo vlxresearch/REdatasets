@@ -1,0 +1,19 @@
+* AggregatedNewsRE Statistics *
+
+NA: 237
+person_Occupation: 15
+professional_Employer: 38
+sportsperson_PositionPlayedOnTeam: 3
+person_Sibling: 24
+person_Child: 6
+person_Parent: 6
+person_Partner: 30
+person_Residence: 9
+organization_FoundedBy: 4
+administrativearea_HeadOfGovernment: 14
+politician_PositionHeld: 1
+person_CountryOfCitizenship: 1
+creativework_Performer: 6
+person_NotableWork: 4
+tvshow_OriginalNetwork: 1
+politician_MemberOfPoliticalParty: 1

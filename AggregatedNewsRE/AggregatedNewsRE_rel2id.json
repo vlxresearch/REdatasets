@@ -1,0 +1,20 @@
+{
+  "NA": 0,
+  "professional_Employer": 1,
+  "sportsperson_PositionPlayedOnTeam": 2,
+  "person_Occupation": 3,
+  "person_Residence": 4,
+  "person_Sibling": 5,
+  "person_Child": 6,
+  "person_Parent": 7,
+  "organization_FoundedBy": 8,
+  "organization_OwnerOf": 9,
+  "person_Partner": 10,
+  "administrativearea_HeadOfGovernment": 11,
+  "politician_PositionHeld": 12,
+  "person_CountryOfCitizenship": 13,
+  "creativework_Performer": 14,
+  "person_NotableWork": 15,
+  "tvshow_OriginalNetwork": 16,
+  "politician_MemberOfPoliticalParty": 17
+}
