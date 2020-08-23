@@ -1,7 +1,7 @@
 # AggregatedNewsRE Dataset 
 
 ## Description:
-It is a Relation Extraction dataset with data from 11 clusters of articles.
+AggregatedNewsRE is a Relation Extraction dataset with data from 11 clusters of articles discussing the same news story.
 It is composed by a total of 400 candidate facts, manually annotated with 18 relational categories (including no-relation category).
 
 ## Files:
