@@ -1,0 +1,88 @@
+
+* TypeRE TRAIN:
+
+NA: 14796
+administrativearea_HeadOfGovernment: 360
+person_CountryOfCitizenship: 651
+tvshow_OriginalNetwork: 144
+creativework_Performer: 127
+politician_PositionHeld: 337
+creativework_Publisher: 273
+person_Parent: 697
+politician_MemberOfPoliticalParty: 489
+person_Sibling: 319
+location_PartOf: 516
+person_Occupation: 190
+person_Residence: 1790
+organization_OwnerOf: 423
+music_RecordLabel: 109
+audiovisual_Screenwriter: 80
+person_NotableWork: 289
+sportsperson_Sport: 303
+sportsperson_PositionPlayedOnTeam: 204
+location_LocatedInOrNextToBodyOfWater: 432
+person_Partner: 564
+person_Child: 327
+professional_Employer: 678
+organization_FoundedBy: 146
+person_PlaceOfBirth: 349
+person_EducatedAt: 136
+
+* TypeRE TEST:
+
+NA: 1850
+administrativearea_HeadOfGovernment: 45
+person_CountryOfCitizenship: 81
+tvshow_OriginalNetwork: 18
+creativework_Performer: 16
+politician_PositionHeld: 43
+creativework_Publisher: 35
+person_Parent: 87
+politician_MemberOfPoliticalParty: 61
+person_Sibling: 40
+location_PartOf: 65
+person_Occupation: 24
+person_Residence: 224
+organization_OwnerOf: 53
+music_RecordLabel: 14
+audiovisual_Screenwriter: 11
+person_NotableWork: 37
+sportsperson_Sport: 38
+sportsperson_PositionPlayedOnTeam: 26
+location_LocatedInOrNextToBodyOfWater: 54
+person_Partner: 71
+person_Child: 41
+professional_Employer: 85
+organization_FoundedBy: 19
+person_PlaceOfBirth: 44
+person_EducatedAt: 17
+
+
+* TypeRE DEV:
+
+NA: 1850
+administrativearea_HeadOfGovernment: 45
+person_CountryOfCitizenship: 82
+tvshow_OriginalNetwork: 18
+creativework_Performer: 16
+politician_PositionHeld: 42
+creativework_Publisher: 34
+person_Parent: 88
+politician_MemberOfPoliticalParty: 62
+person_Sibling: 40
+location_PartOf: 64
+person_Occupation: 24
+person_Residence: 224
+organization_OwnerOf: 53
+music_RecordLabel: 14
+audiovisual_Screenwriter: 10
+person_NotableWork: 36
+sportsperson_Sport: 38
+sportsperson_PositionPlayedOnTeam: 26
+location_LocatedInOrNextToBodyOfWater: 54
+person_Partner: 70
+person_Child: 41
+professional_Employer: 85
+organization_FoundedBy: 18
+person_PlaceOfBirth: 44
+person_EducatedAt: 17
